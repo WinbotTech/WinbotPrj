@@ -1,0 +1,10 @@
+Defined Instances List: 9
+	org.eclipse.uml2.uml.internal.impl.InstanceSpecificationImpl@6aecbb8d (name: actor, visibility: <unset>)
+	org.eclipse.uml2.uml.internal.impl.InstanceSpecificationImpl@62e6b5c8 (name: dataSmash, visibility: <unset>)
+	org.eclipse.uml2.uml.internal.impl.InstanceSpecificationImpl@1af146 (name: rmAgent, visibility: <unset>)
+	org.eclipse.uml2.uml.internal.impl.InstanceSpecificationImpl@3382f8ae (name: selfCandidateA, visibility: <unset>)
+	org.eclipse.uml2.uml.internal.impl.InstanceSpecificationImpl@60641ec8 (name: selfCandidateB, visibility: <unset>)
+	org.eclipse.uml2.uml.internal.impl.InstanceSpecificationImpl@75f65e45 (name: selfCandidateC, visibility: <unset>)
+	org.eclipse.uml2.uml.internal.impl.InstanceSpecificationImpl@6eeade6c (name: selfCandidateD, visibility: <unset>)
+	org.eclipse.uml2.uml.internal.impl.InstanceSpecificationImpl@4a891c97 (name: selfCandidateE, visibility: <unset>)
+	org.eclipse.uml2.uml.internal.impl.InstanceSpecificationImpl@4da602fc (name: selfImprover, visibility: <unset>)
