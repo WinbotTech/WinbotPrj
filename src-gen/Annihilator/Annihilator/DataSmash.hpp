@@ -6,7 +6,7 @@
 /**
  * Generated with Acceleo
  */
-//package Anihilator;
+//package Annihilator;
 
 #include "..//Resources/PrimitiveTypes.hpp"
 #include "..//Resources/DataTypes.hpp"

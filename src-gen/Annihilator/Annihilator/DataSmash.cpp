@@ -1,7 +1,7 @@
 /**
  * Generated with Acceleo
  */
-//package Anihilator;
+//package Annihilator;
 
 #include "DataSmash.hpp"
 
